@@ -1,17 +1,17 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "Rice Shoulder",
+  "description": "Okome Akino is an 18-year-old heavyweight from rural Iwate Prefecture, standing 193cm tall and weighing 92kg. She entered her village’s sumo tournament and defeated one man after another, ultimately claiming the title of champion. Witnessing her impressive display by chance was Akane, a trainer at a Tokyo boxing gym, who was traveling across the country in search of promising female boxers. And so, fate begins to lead Okome into the world of boxing!",
+  "artist": "Tsuyoshi Nakaima",
+  "author": "Tsuyoshi Nakaima",
+  "cover": "https://files.catbox.moe/de4fh3.jpg",
   "chapters": {
     "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+      "title": "1 - The Strongest Lady Appears!",
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "GIMP Pepper": "https://catbox.moe/c/ieqec9"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1749165319"
     },
   }
 }
