@@ -5,13 +5,13 @@
   "author": "Tsuyoshi Nakaima",
   "cover": "https://files.catbox.moe/de4fh3.jpg",
   "chapters": {
-    "<chapter number>": {
+    "1": {
       "title": "1 - The Strongest Lady Appears!",
       "volume": "1",
-      "groups": {
-        "/a/non": "https://catbox.moe/c/ieqec9"
-      },
       "last_updated": "1749165319"
-    },
+      "groups": {
+        "Rice /a/non": "https://catbox.moe/c/ieqec9"
+      },
+    }
   }
 }
