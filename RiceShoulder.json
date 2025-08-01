@@ -3,7 +3,7 @@
   "description": "Okome Akino is an 18-year-old heavyweight from rural Iwate Prefecture, standing 193cm tall and weighing 92kg. She entered her village’s sumo tournament and defeated one man after another, ultimately claiming the title of champion. Witnessing her impressive display by chance was Akane, a trainer at a Tokyo boxing gym, who was traveling across the country in search of promising female boxers. And so, fate begins to lead Okome into the world of boxing!",
   "artist": "Tsuyoshi Nakaima",
   "author": "Tsuyoshi Nakaima",
-  "cover": "https://files.catbox.moe/de4fh3.jpg",
+  "cover": "https://files.catbox.moe/1smeaw.jpg",
   "chapters": {
     "1": {
       "title": "The Strongest Lady Appears!",
@@ -199,6 +199,14 @@
       "last_updated": "1753662636",
       "groups": {
         "Rice /a/non": "/proxy/api/imgur/chapter/Iq0frUa/"
+      }
+    },
+    "20": {
+      "title": "The Prideless Champion",
+      "volume": "3",
+      "last_updated": "1754007851",
+      "groups": {
+        "Rice /a/non": "/proxy/api/imgur/chapter/odSxAWg/"
       }
     }
   }
